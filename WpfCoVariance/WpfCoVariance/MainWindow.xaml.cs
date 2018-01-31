@@ -13,6 +13,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+// see https://blogs.msdn.microsoft.com/calvin_hsia/2018/01/31/store-different-derived-classes-in-collections-in-c-and-c-covariance-shared_ptr-unique_ptr/
+// https://github.com/calvinhsia/CoVariance
 
 namespace WpfCoVariance
 {
